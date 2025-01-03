@@ -1,0 +1,13 @@
+{
+
+  "itemGroup.examplemod": "Example Mod Tab",
+  "block.examplemod.example_block": "Example Block",
+  "item.examplemod.example_item": "Example Item",
+  "item.villagersrise.copper_coin": "Copper Coin",
+  "item.villagersrise.silver_coin": "Silver Coin",
+  "item.villagersrise.scepter_jeweled": "Bejeweled Scepter",
+
+  "block.villagersrise.compressed_cobblestone": "Compressed Cobblestone"
+
+
+}
